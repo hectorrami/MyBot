@@ -5,11 +5,8 @@ Created on Fri Mar  8 15:20:59 2019
 
 @author: hectorramirez
 """
-
-
 import tweepy
 import time
-
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
