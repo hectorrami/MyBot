@@ -20,5 +20,5 @@ pip3 install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f74
 ```
 ## Files
 
-*
+* twitter_bot is the main file with all the logic
 * last_seen_id.txt is a text file that contains the last seen id. 
