@@ -6,6 +6,9 @@ A twitter bot using Twitter's API and Python
 
 # Installation
 
+## First, make sure you have Tweepy
+Check your version of Python on your console(terminal) by using ```bash Python --version ```
+
 #### If you have Python 3.6 run:
 ```
 pip3 install tweepy
