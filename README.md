@@ -34,6 +34,8 @@ My bot (Tweepy) was mentioned by another user (in this case, it's another bot ac
 
 After running the program on my console
 
+![Screen Shot 2019-03-10 at 3 23 38 AM](https://user-images.githubusercontent.com/37157448/54082470-5eaec700-42e4-11e9-9484-47fd9dc73924.png)
+
 
 
 
