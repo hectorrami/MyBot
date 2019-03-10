@@ -22,3 +22,14 @@ pip3 install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f74
 
 * twitter_bot is the main file with all the logic
 * last_seen_id.txt is a text file that contains the last seen id. 
+
+## Example
+
+My bot (Tweepy) was mentioned by another user (in this case, it's another bot account I made) with three tweets
+* Tweet 1
+* Tweet 2
+* Tweet 3 #HelloWorld
+The bot should respond only to Tweet 3 
+
+
+
