@@ -25,7 +25,7 @@ pip3 install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f74
 
 ## Example
 
-#### My bot (Tweepy) was mentioned by another user (in this case, it's another bot account I made) with three tweets:
+#### My bot was mentioned by another user with three tweets:
 
 ![Screen Shot 2019-03-10 at 3 21 17 AM](https://user-images.githubusercontent.com/37157448/54082456-26a78400-42e4-11e9-9303-14ab6f36fbf8.png)
 
