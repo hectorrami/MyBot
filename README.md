@@ -29,7 +29,7 @@ My bot (Tweepy) was mentioned by another user (in this case, it's another bot ac
 * Tweet 1
 * Tweet 2
 * Tweet 3 #HelloWorld
-The bot should respond only to Tweet 3 
 
+![Screen Shot 2019-03-10 at 3 21 17 AM](https://user-images.githubusercontent.com/37157448/54082456-26a78400-42e4-11e9-9303-14ab6f36fbf8.png)
 
 
