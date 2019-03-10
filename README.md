@@ -2,7 +2,7 @@
 
 # Twitter Bot
 
-A twitter bot using Twitter's API and Python (Tweepy)
+A twitter bot using Twitter's API and Tweepy for Python
 
 ## Installation
 
