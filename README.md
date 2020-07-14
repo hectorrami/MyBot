@@ -21,8 +21,6 @@ pip3 install tweepy
 ```bash
 pip3 install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f747ee62e6be12a1338b
 ```
-![tty](https://user-images.githubusercontent.com/37157448/55692676-ce5db380-596f-11e9-9859-903b8d99a0ab.gif)
-
 
 ## Files
 
